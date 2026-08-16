@@ -51,7 +51,7 @@ See `/notebooks` for full training curves, violin plots of uncertainty distribut
 ## 📁 Repository Structure
 
 ```
-├── notebooks/
+├── code/
 │   ├── 01_data_preprocessing.ipynb
 │   ├── 02_unet_training.ipynb
 │   ├── 03_loss_function_comparison.ipynb
